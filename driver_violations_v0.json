@@ -1,0 +1,181 @@
+{
+    "terminal_1": {
+        "total_violations": 209,
+        "drivers": {
+            "driver_1": {
+                "total_percentage": 1,
+                "total_violations": 209
+            }
+        }
+    },
+    "terminal_2": {
+        "total_violations": 834,
+        "drivers": {
+            "driver_2": {
+                "total_percentage": 0.2,
+                "total_violations": 167
+            },
+            "driver_3": {
+                "total_percentage": 0.4,
+                "total_violations": 334
+            },
+            "driver_4": {
+                "total_percentage": 0.4,
+                "total_violations": 334
+            }
+        }
+    },
+    "terminal_3": {
+        "total_violations": 282,
+        "drivers": {
+            "driver_5": {
+                "total_percentage": 0.5,
+                "total_violations": 141
+            },
+            "driver_6": {
+                "total_percentage": 0.2,
+                "total_violations": 56
+            },
+            "driver_7": {
+                "total_percentage": 0.3,
+                "total_violations": 85
+            }
+        }
+    },
+    "terminal_4": {
+        "total_violations": 344,
+        "drivers": {
+            "driver_8": {
+                "total_percentage": 1,
+                "total_violations": 344
+            }
+        }
+    },
+    "terminal_5": {
+        "total_violations": 417,
+        "drivers": {
+            "driver_9": {
+                "total_percentage": 1,
+                "total_violations": 417
+            }
+        }
+    },
+    "terminal_6": {
+        "total_violations": 141,
+        "drivers": {
+            "driver_10": {
+                "total_percentage": 0.3,
+                "total_violations": 42
+            },
+            "driver_11": {
+                "total_percentage": 0.4,
+                "total_violations": 56
+            },
+            "driver_12": {
+                "total_percentage": 0.3,
+                "total_violations": 42
+            }
+        }
+    },
+    "terminal_7": {
+        "total_violations": 135,
+        "drivers": {
+            "driver_13": {
+                "total_percentage": 0.4,
+                "total_violations": 54
+            },
+            "driver_14": {
+                "total_percentage": 0.6,
+                "total_violations": 81
+            }
+        }
+    },
+    "terminal_8": {
+        "total_violations": 157,
+        "drivers": {
+            "driver_15": {
+                "total_percentage": 1,
+                "total_violations": 157
+            }
+        }
+    },
+    "terminal_9": {
+        "total_violations": 402,
+        "drivers": {
+            "driver_16": {
+                "total_percentage": 0.7,
+                "total_violations": 281
+            },
+            "driver_17": {
+                "total_percentage": 0.3,
+                "total_violations": 121
+            }
+        }
+    },
+    "terminal_10": {
+        "total_violations": 68,
+        "drivers": {
+            "driver_18": {
+                "total_percentage": 1,
+                "total_violations": 68
+            }
+        }
+    },
+    "terminal_11": {
+        "total_violations": 90,
+        "drivers": {
+            "driver_19": {
+                "total_percentage": 0.45,
+                "total_violations": 40
+            },
+            "driver_20": {
+                "total_percentage": 0.55,
+                "total_violations": 50
+            }
+        }
+    },
+    "terminal_12": {
+        "total_violations": 68,
+        "drivers": {
+            "driver_21": {
+                "total_percentage": 1,
+                "total_violations": 68
+            }
+        }
+    },
+    "terminal_13": {
+        "total_violations": 257,
+        "drivers": {
+            "driver_22": {
+                "total_percentage": 1,
+                "total_violations": 257
+            }
+        }
+    },
+    "terminal_14": {
+        "total_violations": 257,
+        "drivers": {
+            "driver_23": {
+                "total_percentage": 0.35,
+                "total_violations": 90
+            },
+            "driver_24": {
+                "total_percentage": 0.45,
+                "total_violations": 116
+            },
+            "driver_25": {
+                "total_percentage": 0.2,
+                "total_violations": 51
+            }
+        }
+    },
+    "terminal_15": {
+        "total_violations": 514,
+        "drivers": {
+            "driver_26": {
+                "total_percentage": 1,
+                "total_violations": 514
+            }
+        }
+    }
+}

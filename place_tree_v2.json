@@ -1,0 +1,83 @@
+{
+    "region_1": {
+        "district_1": {
+            "station_1": {
+                "terminal_1": {
+
+                }
+            },
+            "station_2": {
+                "terminal_2": {
+
+                }
+            }
+        },
+        "district_2": {
+            "station_3": {
+                "terminal_3": {
+
+                },
+                "terminal_4": {
+                    
+                }
+            },
+            "station_4": {
+                "terminal_5": {
+
+                }
+            }
+        }
+    },
+    "region_2": {
+        "district_3": {
+            "station_5": {
+                "terminal_6": {
+
+                },
+                "terminal_7": {
+                    
+                }
+            },
+            "station_6": {
+                "terminal_8": {
+
+                },
+                "terminal_9": {
+
+                }
+            }
+        }
+    },
+    "region_3": {
+        "district_4": {
+            "station_7": {
+                "terminal_10": {
+
+                },
+                "terminal_11": {
+
+                },
+                "terminal_12": {
+
+                }
+            }
+        },
+        "district_5": {
+            "station_8": {
+                "terminal_13": {
+
+                }
+            },
+            "station_9": {
+                "terminal_14": {
+
+                }
+            },
+            "station_10": {
+                "terminal_15": {
+                    
+                }
+            }
+        }        
+    }
+}

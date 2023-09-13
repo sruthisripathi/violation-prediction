@@ -1,0 +1,137 @@
+{
+    "region_1": {
+        "total_violations": 2086,
+        "districts": {
+            "district_1": {
+                "total_violations": 1043,
+                "stations": {
+                    "station_1": {
+                        "total_violations": 209,
+                        "terminals": {
+                            "terminal_1": {
+                                "total_violations": 209
+                            }
+                        }
+                    },
+                    "station_2": {
+                        "total_violations": 834,
+                        "terminals": {
+                            "terminal_2": {
+                                "total_violations": 834
+                            }
+                        }
+                    }
+                }
+            },
+            "district_2": {
+                "total_violations": 1043,
+                "stations": {
+                    "station_3": {
+                        "total_violations": 626,
+                        "terminals": {
+                            "terminal_3": {
+                                "total_violations": 282
+                            },
+                            "terminal_4": {
+                                "total_violations": 344
+                            }
+                        }
+                    },
+                    "station_4": {
+                        "total_violations": 417,
+                        "terminals": {
+                            "terminal_5": {
+                                "total_violations": 417
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "region_2": {
+        "total_violations": 835,
+        "districts": {
+            "district_3": {
+                "total_violations": 835,
+                "stations": {
+                    "station_5": {
+                        "total_violations": 276,
+                        "terminals": {
+                            "terminal_6": {
+                                "total_violations": 141
+                            },
+                            "terminal_7": {
+                                "total_violations": 135
+                            }
+                        }
+                    },
+                    "station_6": {
+                        "total_violations": 559,
+                        "terminals": {
+                            "terminal_8": {
+                                "total_violations": 157
+                            },
+                            "terminal_9": {
+                                "total_violations": 402
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "region_3": {
+        "total_violations": 1252,
+        "districts": {
+            "district_4": {
+                "total_violations": 225,
+                "stations": {
+                    "station_7": {
+                        "total_violations": 225,
+                        "terminals": {
+                            "terminal_10": {
+                                "total_violations": 68
+                            },
+                            "terminal_11": {
+                                "total_violations": 90
+                            },
+                            "terminal_12": {
+                                "total_violations": 68
+                            }
+                        }
+                    }
+                }
+            },
+            "district_5": {
+                "total_violations": 1027,
+                "stations": {
+                    "station_8": {
+                        "total_violations": 257,
+                        "terminals": {
+                            "terminal_13": {
+                                "total_violations": 257
+                            }
+                        }
+                    },
+                    "station_9": {
+                        "total_violations": 257,
+                        "terminals": {
+                            "terminal_14": {
+                                "total_violations": 257
+                            }
+                        }
+                    },
+                    "station_10": {
+                        "total_violations": 514,
+                        "terminals": {
+                            "terminal_15": {
+                                "total_violations": 514
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
