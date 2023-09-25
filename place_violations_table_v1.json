@@ -1,0 +1,167 @@
+[
+    {
+        "place_id": "region_1",
+        "place_type": "region",
+        "total_violations": 10432
+    },
+    {
+        "place_id": "district_1",
+        "place_type": "district",
+        "total_violations": 5216
+    },
+    {
+        "place_id": "station_1",
+        "place_type": "station",
+        "total_violations": 1043
+    },
+    {
+        "place_id": "terminal_1",
+        "place_type": "terminal",
+        "total_violations": 1043
+    },
+    {
+        "place_id": "station_2",
+        "place_type": "station",
+        "total_violations": 4173
+    },
+    {
+        "place_id": "terminal_2",
+        "place_type": "terminal",
+        "total_violations": 4173
+    },
+    {
+        "place_id": "district_2",
+        "place_type": "district",
+        "total_violations": 5216
+    },
+    {
+        "place_id": "station_3",
+        "place_type": "station",
+        "total_violations": 3130
+    },
+    {
+        "place_id": "terminal_3",
+        "place_type": "terminal",
+        "total_violations": 1408
+    },
+    {
+        "place_id": "terminal_4",
+        "place_type": "terminal",
+        "total_violations": 1722
+    },
+    {
+        "place_id": "station_4",
+        "place_type": "station",
+        "total_violations": 2086
+    },
+    {
+        "place_id": "terminal_5",
+        "place_type": "terminal",
+        "total_violations": 2086
+    },
+    {
+        "place_id": "region_2",
+        "place_type": "region",
+        "total_violations": 4173
+    },
+    {
+        "place_id": "district_3",
+        "place_type": "district",
+        "total_violations": 4173
+    },
+    {
+        "place_id": "station_5",
+        "place_type": "station",
+        "total_violations": 1377
+    },
+    {
+        "place_id": "terminal_6",
+        "place_type": "terminal",
+        "total_violations": 702
+    },
+    {
+        "place_id": "terminal_7",
+        "place_type": "terminal",
+        "total_violations": 675
+    },
+    {
+        "place_id": "station_6",
+        "place_type": "station",
+        "total_violations": 2796
+    },
+    {
+        "place_id": "terminal_8",
+        "place_type": "terminal",
+        "total_violations": 783
+    },
+    {
+        "place_id": "terminal_9",
+        "place_type": "terminal",
+        "total_violations": 2013
+    },
+    {
+        "place_id": "region_3",
+        "place_type": "region",
+        "total_violations": 6260
+    },
+    {
+        "place_id": "district_4",
+        "place_type": "district",
+        "total_violations": 1127
+    },
+    {
+        "place_id": "station_7",
+        "place_type": "station",
+        "total_violations": 1127
+    },
+    {
+        "place_id": "terminal_10",
+        "place_type": "terminal",
+        "total_violations": 338
+    },
+    {
+        "place_id": "terminal_11",
+        "place_type": "terminal",
+        "total_violations": 451
+    },
+    {
+        "place_id": "terminal_12",
+        "place_type": "terminal",
+        "total_violations": 338
+    },
+    {
+        "place_id": "district_5",
+        "place_type": "district",
+        "total_violations": 5133
+    },
+    {
+        "place_id": "station_8",
+        "place_type": "station",
+        "total_violations": 1283
+    },
+    {
+        "place_id": "terminal_13",
+        "place_type": "terminal",
+        "total_violations": 1283
+    },
+    {
+        "place_id": "station_9",
+        "place_type": "station",
+        "total_violations": 1283
+    },
+    {
+        "place_id": "terminal_14",
+        "place_type": "terminal",
+        "total_violations": 1283
+    },
+    {
+        "place_id": "station_10",
+        "place_type": "station",
+        "total_violations": 2566
+    },
+    {
+        "place_id": "terminal_15",
+        "place_type": "terminal",
+        "total_violations": 2566
+    }
+]

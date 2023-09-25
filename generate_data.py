@@ -136,7 +136,7 @@ class Data:
 #     "terminal_15": {}
 # }
 
-total_violations = 4173
+total_violations = 4173*5
 
 regions = {}
 
